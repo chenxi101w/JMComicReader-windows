@@ -1,0 +1,122 @@
+287 INFO: PyInstaller: 6.21.0, contrib hooks: 2026.6
+287 INFO: Python: 3.13.14
+310 INFO: Platform: Windows-10-10.0.19045-SP0
+310 INFO: Python environment: C:\Users\Administrator\.workbuddy\binaries\python\envs\build_venv
+323 INFO: Module search paths (PYTHONPATH):
+['D:\\code\\CODE\\AI project\\jmcomicreader-windows',
+ 'D:\\code\\Android\\APP\\WorkBuddy\\resources\\app.asar.unpacked\\cli\\vendor\\shim',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\versions\\3.13.12\\python313.zip',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\versions\\3.13.12\\DLLs',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\versions\\3.13.12\\Lib',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\versions\\3.13.12',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv',
+ 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages',
+ 'D:\\code\\CODE\\AI project\\jmcomicreader-windows']
+979 INFO: Appending 'datas' from .spec
+982 INFO: checking Analysis
+982 INFO: Building Analysis because Analysis-00.toc is non existent
+982 INFO: Looking for Python shared library...
+983 INFO: Using Python shared library: C:\Users\Administrator\.workbuddy\binaries\python\versions\3.13.12\python313.dll
+983 INFO: Running Analysis Analysis-00.toc
+983 INFO: Target bytecode optimization level: 0
+983 INFO: Initializing module dependency graph...
+985 INFO: Initializing module graph hook caches...
+1004 INFO: Analyzing modules for base_library.zip ...
+2947 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3660 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3897 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+5162 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6656 INFO: Caching module dependency graph...
+6695 INFO: Analyzing D:\code\CODE\AI project\jmcomicreader-windows\desktop_app.py
+7055 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+7108 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+7114 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+7399 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+7400 INFO: SetuptoolsInfo: initializing cached setuptools info...
+8560 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+8662 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+9747 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+10313 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+10596 INFO: Processing standard module hook 'hook-jinja2.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+11397 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11397 INFO: Setuptools: 'importlib_metadata' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.importlib_metadata'!
+11405 INFO: Processing standard module hook 'hook-setuptools.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+11420 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11455 INFO: Processing pre-safe-import-module hook 'hook-jaraco.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11455 INFO: Setuptools: 'jaraco' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco'!
+11469 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11469 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+11720 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+12019 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+12020 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+12057 INFO: Processing pre-safe-import-module hook 'hook-backports.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+12057 INFO: Setuptools: 'backports' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.backports'!
+12530 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+12530 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+13107 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+13108 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'!
+13170 INFO: Processing standard module hook 'hook-setuptools._vendor.importlib_metadata.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13199 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+13200 INFO: Setuptools: 'zipp' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.zipp'!
+13275 INFO: Processing standard module hook 'hook-sqlite3.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13916 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14058 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14661 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14856 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15167 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+15168 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+15434 WARNING: tkinter installation is broken. It will be excluded from the application
+15469 INFO: Processing standard module hook 'hook-urllib3.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16006 INFO: Processing standard module hook 'hook-certifi.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16060 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16966 INFO: Processing standard module hook 'hook-Crypto.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+18685 INFO: Processing standard module hook 'hook-pycparser.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+20295 INFO: Processing standard module hook 'hook-lxml.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+20821 INFO: Processing standard module hook 'hook-lxml.etree.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+22307 INFO: Processing standard module hook 'hook-webview.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\webview\\__pyinstaller'
+22763 INFO: Processing pre-safe-import-module hook 'hook-gi.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+22917 INFO: Processing standard module hook 'hook-clr.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\pythonnet\\_pyinstaller'
+22998 INFO: Processing standard module hook 'hook-clr_loader.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+23166 INFO: Processing module hooks (post-graph stage)...
+23532 INFO: Processing standard module hook 'hook-lxml.isoschematron.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+23632 WARNING: Hidden import "pycparser.lextab" not found!
+23632 WARNING: Hidden import "pycparser.yacctab" not found!
+23969 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks'
+24071 INFO: Processing standard module hook 'hook-lxml.objectify.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+24082 INFO: Performing binary vs. data reclassification (186 entries)
+24193 INFO: Looking for ctypes DLLs
+24318 INFO: Analyzing run-time hooks ...
+24322 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+24326 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+24329 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+24332 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+24351 INFO: Creating base_library.zip...
+24374 INFO: Looking for dynamic libraries
+25733 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\pikepdf.libs', 'C:\\Users\\Administrator\\.workbuddy\\binaries\\python\\envs\\build_venv\\Lib\\site-packages\\curl_cffi.libs']
+25734 INFO: Extra DLL search directories (PATH): []
+27720 INFO: Warnings written to D:\Game\JMComicReader\build\JMComicReader\warn-JMComicReader.txt
+27809 INFO: Graph cross-reference written to D:\Game\JMComicReader\build\JMComicReader\xref-JMComicReader.html
+27855 INFO: checking PYZ
+27855 INFO: Building PYZ because PYZ-00.toc is non existent
+27855 INFO: Building PYZ (ZlibArchive) D:\Game\JMComicReader\build\JMComicReader\PYZ-00.pyz
+28684 INFO: Building PYZ (ZlibArchive) D:\Game\JMComicReader\build\JMComicReader\PYZ-00.pyz completed successfully.
+28707 INFO: checking PKG
+28708 INFO: Building PKG because PKG-00.toc is non existent
+28708 INFO: Building PKG (CArchive) JMComicReader.pkg
+28741 INFO: Building PKG (CArchive) JMComicReader.pkg completed successfully.
+28742 INFO: Bootloader C:\Users\Administrator\.workbuddy\binaries\python\envs\build_venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+28742 INFO: checking EXE
+28742 INFO: Building EXE because EXE-00.toc is non existent
+28742 INFO: Building EXE from EXE-00.toc
+28743 INFO: Copying bootloader EXE to D:\Game\JMComicReader\build\JMComicReader\JMComicReader.exe
+28754 INFO: Copying icon to EXE
+28763 INFO: Copying 0 resources to EXE
+28763 INFO: Embedding manifest in EXE
+28771 INFO: Appending PKG archive to EXE
+28781 INFO: Fixing EXE headers
+28862 INFO: Building EXE from EXE-00.toc completed successfully.
+28872 INFO: checking COLLECT
+28872 INFO: Building COLLECT because COLLECT-00.toc is non existent
+28873 INFO: Building COLLECT COLLECT-00.toc
+29855 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+29863 INFO: Build complete! The results are available in: D:\Game\JMComicReader\dist_tmp
